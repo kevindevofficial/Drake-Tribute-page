@@ -1,7 +1,5 @@
 This is a tribute page dedicated to Drake the hip hop artist.
 
+This is a Freecodecamp assignment I created for porfolio demonstration purposes.
 
-This makes part of my programming portfolio.
-
-
-Welcome and enjoy!
+Thanks for watching!
